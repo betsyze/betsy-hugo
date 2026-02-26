@@ -1,5 +1,5 @@
 # Betsy Blog: Static Site
-## Made using [Shibui](https://github.com/ntk148v/shibui)
+#### Made with [Shibui](https://github.com/ntk148v/shibui)
 
 <img src="https://i.imgur.com/lDf3LXS.png" alt="Screenshot" width="400">
 
