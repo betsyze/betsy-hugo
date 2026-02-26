@@ -3,6 +3,6 @@
 
 <img src="https://i.imgur.com/lDf3LXS.png" alt="Screenshot" width="400">
 
-A WIP blog static site. Made as I learn Hugo & improve at Git and command-line interface.
+A WIP blog static site. Making as I learn Hugo & improve at Git and command-line interface.
 
 
