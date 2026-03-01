@@ -1,0 +1,19 @@
+{{ define "main" }}
+
+{{ .Content }}
+<div class="terminal-nav">
+  {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+</div>
+  <h1>Coyote Spider Buffalo</h1>
+
+  <div>This is Betsy Ellison's private blog.</div>
+  <span>What's up. On </span>{{ .Title }}<span> I am blogging, privately.</span>
+  <p>This is me:</p>
+  <img src="/images/girl-1.gif" alt="Animated gif of a girl taking a deep breath while sitting on the floor.">
+  <p>This is an animation I made in 2021.</p>
+
+  <h2>What's with the name</h2>
+  <p>Coyote, Spider, Buffalo are three animals that are significant to me.</p>
+  <h2>??</h2>
+  <p>:P</p>
+{{ end }}

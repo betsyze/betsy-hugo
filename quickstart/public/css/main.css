@@ -2,6 +2,7 @@
   /* Typography */
   --spacing-base: 1.5em;
   --font-family-mono: monospace;
+  --font-family-sans: Noto Sans, sans-serif;
   --font-size-base: 1em;
   --font-size-small: 0.9em;
   --font-size-code: 0.95em;
@@ -134,7 +135,7 @@ html {
 }
 
 body {
-  font: var(--font-size-base) / var(--spacing-base) var(--font-family-mono);
+  font: var(--font-size-base) / var(--spacing-base) var(--font-family-sans);
   background: var(--color-bg-primary);
   min-height: 100%;
   display: grid;
@@ -226,7 +227,7 @@ pre {
   border-radius: var(--pre-border-radius);
   white-space: pre-wrap;
   word-wrap: break-word;
-  font-family: var(--font-family-mono);
+  font-family: var(--font-family-sans);
   font-size: var(--font-size-code);
   line-height: 1.6;
   color: var(--color-text-code);
@@ -253,7 +254,7 @@ h5 > code {
   border: 1px solid var(--color-border);
   border-radius: var(--inline-border-radius);
   padding: 0.2em 0.4em;
-  font-family: var(--font-family-mono);
+  font-family: var(--font-family-sans);
   font-size: var(--font-size-code);
   color: var(--color-text-code);
   white-space: pre-wrap;
@@ -279,7 +280,7 @@ h5 > code {
 
 /* Path navigation styles */
 .path-nav {
-  font-family: var(--font-family-mono);
+  font-family: var(--font-family-sans);
   padding: var(--spacing-base) 0;
   white-space: nowrap;
   overflow-x: auto;

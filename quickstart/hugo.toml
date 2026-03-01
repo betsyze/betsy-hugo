@@ -1,6 +1,6 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'Your Site Title'
+title = 'Coyote Spider Buffalo'
 theme = "shibui"
 
 [params]

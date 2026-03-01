@@ -1,1 +1,5 @@
 /* You can add custom style here */
+/* Typography */
+body {
+    font-family: 'Noto Sans', sans-serif;
+}
