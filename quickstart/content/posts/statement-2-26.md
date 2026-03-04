@@ -20,6 +20,6 @@ Narrative bobs in and out of my comics, as if intelligibility is an interesting 
 
 ## Links and resources
 ### Resources from Elena Caravela
-![Email from Elena](/images/elena.png)
+![Email from Elena](images/elena.png)
 
 > __Hyperlinks:__ <br> [1](https://www.poetsandartists.com/customer-support-qa), [2](https://www.artsy.net/partner/33-contemporary), [3](https://www.behance.net/), [4](https://www.scbwi.org/), [5](https://showsubmit.com/), [6](https://www.instagram.com/beautifulbizarremagazine/?hl=en), [7](https://www.reddit.com/r/arthelp/comments/1lhrsnn/the_best_legitimate_lists_of_art_contests_prizes/?rdt=61021), [8](https://www.theartlist.com/), [9](https://artistcommunities.org/term/fully-funded-residency?page=16), [10](https://www.artworkarchive.com/call-for-entry/complete-guide-to-2026-artist-grants-opportunities?opportunity_type_filter%5B%5D=2), [11](https://www.magazine.artconnect.com/artist-opportunities/funded-art-residencies-to-know-about), [12](https://www.google.com/search?sca_esv=90fa01944a1e10fb&rlz=1C5CHFA_enUS975US975&sxsrf=ANbL-n4QEHwI_UOGJCbH4QRCVwqQhWbfTg:1772399574196&q=Best+paid+artist+residencies+2026&sa=X&ved=2ahUKEwiMmJT4zv-SAxUJGlkFHRczCjIQ1QJ6BAgzEAE&biw=2064&bih=985&dpr=1.5)
